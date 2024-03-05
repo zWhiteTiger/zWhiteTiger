@@ -4,6 +4,7 @@
 >
 > ### EN
 > Hi i'am Suer, am 21Year old current am student Year3 on University
+> 
 > Note: **Suer** is mean tiger
 
 > # Education
@@ -31,3 +32,13 @@
 > 
 > ### Instagram
 > https://www.instagram.com/suer.natta/
+
+> # Skills
+>
+> Programming: **Mediumn**
+> 
+> (React, PHP/HTML, JS, JSON, Python, TypeScript, C++, C#, CSS)
+>
+> Graphic Design: **Mediumn**
+>
+> (Premiere Pro, After Effect, Figma, Photoshop)
