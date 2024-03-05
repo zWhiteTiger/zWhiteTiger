@@ -10,4 +10,13 @@
 
 จบการศึกษา ระดับมัธยมศึกษาตอนต้น-ปลาย ณ โรงเรียนกุดบงพิทยาคาร
 
-### มหาวิทยาลัย กาฬสินธุ์ (Kalasin University)
+> ### กำลัง มหาวิทยาลัย กาฬสินธุ์ (Kalasin University)
+คณะวิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม
+
+  - Faculty of Engineering and Industrial Technology
+
+สาขาวิชา วิศวกรรมคอมพิวเตอร์และระบบอัตโนมัติ  
+
+  - Computer Engineering and Automation
+
+รหัส 64 - CAE6441
