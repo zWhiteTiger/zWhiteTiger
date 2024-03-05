@@ -1,5 +1,10 @@
-> # IntroductionS
-> สวัสดีครับ ผมชื่อเสือนะครับ อายุ21ปี เป็นนักศึกษามหาวิทยาลัยแห่งหนึ่งในกาฬสินธุ์ หรือ มหาวิทยาลัยกาฬสินธุ์ นั่นแหละ
+> # Introduction
+> ### TH
+> สวัสดีครับ ผมชื่อเสือนะครับ อายุ21ปี ตอนนี้ก็เรียนอยู่ปี3คับผม
+>
+> ### EN
+> Hi i'am Suer, am 21Year old current am student Year3 on University
+> Note: **Suer** is mean tiger
 
 > # Education
 > ### TH
