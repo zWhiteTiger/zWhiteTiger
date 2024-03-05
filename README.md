@@ -4,12 +4,16 @@
 > # Education
 > ### TH
 > กำลังศึกษาที่ **มหาวิทยาลัย กาฬสินธุ์**
+> 
 > คณะ วิศวกรรมศาสตร์และเทคโนโลยีอุตสาหกรรม
+> 
 > สาขาวิชา วศ.บ. วิศวกรรมคอมพิวเตอร์และระบบอัตโนมัติ
 >
 > -------------------------------------------
 > 
 > ### Eng
 > Studying at **Kalasin University**
+> 
 > Faculty of Engineering and Industrial Technology
+> 
 > Department B.E. Computer Engineering and Automation
