@@ -1,6 +1,6 @@
 
 <p align="start" class="img">
-  <img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/11900423/35974a9d38d542ae9c725aaddb1da51c/eyJ3IjoxMjAwLCJ3ZSI6MX0%3D/2.png?token-time=1712188800&token-hash=nUxBAVG1KcLhFVR7zcVZ7kAjLGQvSQYqmCGFG2wLou8%3D" title="zWhiteTiger">
+  <img src="https://imagetolink.com/ib/3GG8bEnZPK.png" title="zWhiteTiger">
 </p>
 
 > # Introduction
