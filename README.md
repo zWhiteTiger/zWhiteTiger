@@ -1,6 +1,6 @@
 
 <p align="start" class="img">
-  <img src="https://imagetolink.com/ib/kZkN1GIpTn.png" height="100" width="cover" title="zWhiteTiger">
+  <img src="https://imagetolink.com/ib/kZkN1GIpTn.png" title="zWhiteTiger">
 </p>
 
 > # Introduction
