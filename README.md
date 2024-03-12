@@ -1,3 +1,8 @@
+
+<p align="start" class="img">
+  <img src="https://avatars.githubusercontent.com/u/157341421?v=4" height="100" title="zWhiteTiger">
+</p>
+
 > # Introduction
 > ### TH
 > สวัสดีครับ ผมชื่อเสือนะครับ อายุ21ปี ตอนนี้ก็เรียนอยู่ปี3คับผม
