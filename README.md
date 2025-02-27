@@ -2,8 +2,8 @@
 
 # ShiroTora's Github
 
+### Hi, I’m **ShiroTora**! You can call me Tiger or Suea—it means 'Tiger,' which is my name, lol.
 
-Hi, I’m **ShiroTora**! You can call me Tiger or Suea—it means 'Tiger,' which is my name, lol.
 ---
 
 ## My Stack
