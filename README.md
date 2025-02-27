@@ -1,10 +1,5 @@
-<center>
+<img src="https://via.placeholder.com/1200x360.png?text=ShiroTora's+Banner" alt="Profile Banner" width="100%">
 
-# ShiroTora's Github
-
-</center>
-
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+ShiroTora's+GitHub)  
 Hi am ** ShiroTora or Suea(เสือ)** am student of kalasin university
 (BE. Computer Engineering and Automation: CAE64)
 
