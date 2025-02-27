@@ -1,14 +1,13 @@
 <img src="https://github.com/zWhiteTiger/zWhiteTiger/blob/main/img/banner1.png" alt="Profile Banner" width="100%">
 
+# ShiroTora's Github
 
-Hi am ** ShiroTora or Suea(เสือ)** am student of kalasin university
-(BE. Computer Engineering and Automation: CAE64)
-
+Hi, I’m **ShiroTora**! You can call me Tiger or Suea—it means 'Tiger,' which is my name, lol.
 ---
 
 ## My Stack
 
-- 🌍 Based in [Your City/Country]
+- 🌍 Based in _Bangkok/TH_
 
 Here’s what I work with:
 
