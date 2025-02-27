@@ -15,5 +15,3 @@ Here’s what I work with:
 ## My Info
 
 - 🌍 Based in [Bangkok/TH](https://maps.app.goo.gl/cWRzQoH1gdQSK87d6)
-
-Here’s what I work with:
