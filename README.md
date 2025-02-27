@@ -1,6 +1,6 @@
 <center>
 
-# ShiroTora's Github
+ShiroTora's Github
 
 </center>
 
