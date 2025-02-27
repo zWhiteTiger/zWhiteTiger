@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/zWhiteTiger/zWhiteTiger/main/img/banner.png" alt="Profile Banner" width="100%" height="300" style="object-fit: contain;">
+<img src="https://raw.githubusercontent.com/zWhiteTiger/zWhiteTiger/main/img/banner.png" alt="Profile Banner" width="100%" height="100%" style="object-fit: contain;">
 
 Hi am ** ShiroTora or Suea(เสือ)** am student of kalasin university
 (BE. Computer Engineering and Automation: CAE64)
