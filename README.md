@@ -7,7 +7,7 @@ Hi, I’m **ShiroTora**! You can call me Tiger or Suea—it means 'Tiger,' which
 
 ## My Stack
 
-- 🌍 Based in [Bangkok/TH]
+- 🌍 Based in [Bangkok/TH](https://maps.app.goo.gl/cWRzQoH1gdQSK87d6)
 
 Here’s what I work with:
 
