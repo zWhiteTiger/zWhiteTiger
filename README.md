@@ -1,4 +1,4 @@
-[<img src="" alt="Profile Banner" width="100%">](https://github.com/zWhiteTiger/zWhiteTiger/blob/main/img/banner.png?raw=true)
+<img src="https://github.com/zWhiteTiger/zWhiteTiger/blob/main/img/banner.png" alt="Profile Banner" width="100%">
 
 Hi am ** ShiroTora or Suea(เสือ)** am student of kalasin university
 (BE. Computer Engineering and Automation: CAE64)
