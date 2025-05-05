@@ -6,6 +6,8 @@
 
 I’m a 4th-year student at Kalasin University, studying for a B.Eng. in Computer Engineering and Automation (CAE6441), Faculty of Engineering and Industrial Technology, with a GPA of 3.47. My real dream was to become a pilot, but the costs were too high, so I ended up in engineering instead. My skills lean toward development, mostly as a full-stack dev.
 
+*** Some repositories are configured as private.***
+
 ## My Stack
 
 Here’s what I work with:
