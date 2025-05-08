@@ -1,6 +1,6 @@
 <img src="https://github.com/zWhiteTiger/zWhiteTiger/blob/main/img/banner1.png" alt="Profile Banner" width="100%">
 
-# ShiroTora's Github
+# เสือ's Github
 ---
 ### Hi, I’m **toramaru**! You can call me Tiger or Suea—it means 'Tiger,' which is my name, lol.
 
